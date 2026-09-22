@@ -35,3 +35,7 @@ yarn-error.log*
 
 #mcp local
 .mcp.json
+
+# Kiro CLI binaries (arquivos grandes, não devem ir para o repositório)
+kirocli/
+kirocli.zip
